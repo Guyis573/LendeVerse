@@ -1,21 +1,21 @@
 # 🌐 LendeVerse
 
 Welcome to **LendeVerse** a project created by **Guyis_573**.
-LendeVerse is an place where people can chat on older devices. It is inprired from MiiVerse.
-The project is being developed with platforms including PC, Nintendo Wii and Nintendo DS.
+LendeVerse is an place where people can chat on older devices. It is inspired from MiiVerse.
+It's being developed on platforms like PC, Wii and DS.
 
 ## ✨ What can you do with LendeVerse?
-- 💬 Chat with others in a public chat.
+- 💬 You can Chat with others or with friends.
 - 👥 Create your own account.
-- 🤝 Send and receive friend requests.
+- 🤝 Send Friend requests by their Friend Code. And accept it or refuse them.
 
-## 🖥️ Platforms
+## 🖥️ Compatibility
 - PC / Web : Available for testing
 - Nintendo Wii : In development
 - Nintendo DS : Planned
 - Android : Planned 
 
-## 🛠️ How is it made?
+## 🛠️ With What is was builded?
 LendeVerse is built using web technologies and Cloudflare services.
 - HTML
 - CSS
@@ -23,14 +23,14 @@ LendeVerse is built using web technologies and Cloudflare services.
 - Cloudflare Workers
 - Cloudflare Database
 
-## 🚧 Current Development
+## 🚧 Development
 LendeVerse is still growing. Theres many things to do!
 
 The PC version has working features such as public chat and friend requests.
 I am also working on the Nintendo Wii version. HTTPS requests have already been tested on Wii hardware, which is an important step towards bringing LendeVerse to the console.
 Nintendo DS and Android versions are planned for the future.
 
-## 🎯 The Goal
+## 🎯 Goal For Development
 I want LendeVerse to be accessible on older devices while keeping things :
 - A chat.
 - Social features.
