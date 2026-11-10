@@ -1,7 +1,5 @@
 # 🌐 LendeVerse
 
-**A place to connect, chat and share.**
-
 Welcome to **LendeVerse** a project created by **Guyis_573**.
 The idea is simple. LendeVerse is an place where people can chat on older devices. It is inprired from MiiVerse.
 The project is being developed with platforms including PC, Nintendo Wii and Nintendo DS.
