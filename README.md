@@ -1,6 +1,6 @@
 # 🌐 LendeVerse
 
-Welcome to **LendeVerse** a project created by **Guyis_573**.
+Welcome to **LendeVerse**, a project created by **Guyis_573**.
 LendeVerse is an place where people can chat on older devices. It is inspired from MiiVerse.
 It's being developed on platforms like PC, Wii and DS.
 
@@ -15,7 +15,7 @@ It's being developed on platforms like PC, Wii and DS.
 - Nintendo DS : Planned
 - Android : Planned 
 
-## 🛠️ With What is was builded?
+## 🛠️ What is it built with?
 LendeVerse is built using web technologies and Cloudflare services.
 - HTML
 - CSS
