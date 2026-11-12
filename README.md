@@ -1,4 +1,4 @@
-# 🌐 LendeVerse
+# <img width="50" height="50" alt="LendeVerseLogo" src="https://github.com/user-attachments/assets/5cac8546-7b86-4378-a563-ad2912e08829" /> LendeVerse
 
 Welcome to **LendeVerse**, a project created by **Guyis_573**.
 LendeVerse is an place where people can chat on older devices. It is inspired from MiiVerse.
