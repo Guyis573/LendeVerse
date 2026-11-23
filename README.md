@@ -37,5 +37,5 @@ I want LendeVerse to be accessible on older devices while keeping things :
 - And support.
 
 ## ❔ How to access
-Web : https://sites.google.com/view/lendeverse/home
-Wii repository : https://github.com/Guyis573/LendeVerse-Wii
+- Web : https://sites.google.com/view/lendeverse/home
+- Wii repository : https://github.com/Guyis573/LendeVerse-Wii
