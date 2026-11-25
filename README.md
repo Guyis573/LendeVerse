@@ -11,7 +11,7 @@ It's being developed on platforms like PC, Wii and DS.
 
 ## 🖥️ Compatibility
 - PC / Web : Available for testing*
-- Nintendo Wii : **Available for TESTING NOW***
+- Nintendo Wii : **Available for TESTING NOW*** (Don't try to put the website on the internet channel.)
 - Nintendo DS : Planned
 - Android : Planned
 
@@ -40,4 +40,4 @@ I want LendeVerse to be accessible on older devices while keeping things :
 
 ## ❔ How to access
 - [Web](https://sites.google.com/view/lendeverse/home)
-- [Wii Repository](https://github.com/Guyis573/LendeVerse-Wii)
+- [Wii Repository](https://github.com/Guyis573/LendeVerse-Wii) (Don't try to put the website on the internet channel.)
