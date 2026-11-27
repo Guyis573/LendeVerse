@@ -4,6 +4,8 @@ Welcome to **LendeVerse**, a project created by **Guyis_573**.
 LendeVerse is a place where people can chat on older devices. It is inspired by **Miiverse**.
 It's being developed on platforms like PC, Wii and DS.
 
+[Join the discord!](https://discord.gg/v9mSurbGDE)
+
 ## ✨ What can you do with LendeVerse?
 - 💬 You can chat with others or with friends.
 - 👥 Create your own account.
